@@ -4,3 +4,5 @@
 
 Скрин для примера:
 ![image](https://github.com/user-attachments/assets/08f71990-a365-4363-ad3c-aaf85bf254db)
+
+Библиотеки: aiogram 3, asyncio, aiohttp
